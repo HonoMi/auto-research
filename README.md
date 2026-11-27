@@ -40,7 +40,7 @@
         * 例) 「データセットの難易度はもう少し高い方が良い」「この工程はスキップしても問題なさそう」「データ数を限って試行錯誤した方が早そうだ」等。
     - また、計画書を読んでいて気がついた点があれば、常にどしどしと挙げる。
 * 指示されたタイミングで更新する。更新は、単なる情報の追記ではなく、文書をあるべき姿(下記)に保つための「推敲と改訂」である。更新したら、commit & pushする。
-    - 編集時は[分かりやすい返答のための一般論](https://github.com/HonoMi/research-arounds/blob/honoka-dev/AI/good_writing.md)に従うこと。
+    - 編集時は[分かりやすい返答のための一般論](https://github.com/HonoMi/AI-instructions/blob/honoka-dev/good_writing.md)に従うこと。
 
 以下、書き方を説明していく。
 
